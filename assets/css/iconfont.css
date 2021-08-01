@@ -1,0 +1,58 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2697557 */
+  src: url('iconfont.eot?t=1627132731764'); /* IE9 */
+  src: url('iconfont.eot?t=1627132731764#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1627132731764') format('woff2'),
+       url('iconfont.woff?t=1627132731764') format('woff'),
+       url('iconfont.ttf?t=1627132731764') format('truetype'),
+       url('iconfont.svg?t=1627132731764#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 25px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-angleup:before {
+  content: "\e664";
+}
+
+.icon-list:before {
+  content: "\e63f";
+}
+
+.icon-coding:before {
+  content: "\e617";
+}
+
+.icon-weibo:before {
+  content: "\e643";
+}
+
+.icon-csdn:before {
+  content: "\e60a";
+}
+
+.icon-yinle:before {
+  content: "\e63b";font-size: 21px;
+}
+
+.icon-steam:before {
+  content: "\e600";font-size: 21px;
+}
+
+.icon-email:before {
+  content: "\e62b";font-size: 21px;
+}
+
+.icon-github:before {
+  content: "\e603";font-size: 21px;
+}
+
+.icon-discord:before {
+  content: "\eb7a";
+}
+
